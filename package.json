@@ -1,0 +1,29 @@
+{
+  "name": "react-redux-1",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "flow-bin": "^0.35.0",
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.2",
+    "lodash": "^4.17.2",
+    "react": "^15.4.0",
+    "react-bootstrap": "^0.30.6",
+    "react-data-grid": "^1.0.62",
+    "react-dom": "^15.4.0",
+    "react-google-maps": "^4.7.1",
+    "react-redux": "^4.4.6",
+    "react-router": "^2.0.0-rc5",
+    "react-sparklines": "^1.6.0",
+    "redux": "^3.6.0",
+    "redux-promise": "^0.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
